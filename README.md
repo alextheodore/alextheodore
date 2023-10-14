@@ -16,19 +16,19 @@
 [![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextp03)
 
 ## 📖 Skills
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-6495ED?style=for-the-badge&logo=scikit-learn&logoColor=white) (Blue)
-![Keras](https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge&logo=keras&logoColor=white) (Salmon)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white) (Gold)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) (Purple)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FFA07A?style=for-the-badge&logo=jupyter&logoColor=white) (Light Salmon)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-6495ED?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge&logo=keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FFA07A?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Google-Colab-32CD32?style=for-the-badge&logo=google-colab&logoColor=white) (Lime Green)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700) (Dark Blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) (Orange)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&&logoColor=white) (Navy)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Navy)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) (Black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) (Turquoise)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) (Red)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 
 <!--
