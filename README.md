@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alex
+### Hi there 👋, I'm Alex aka [Alexander Theodore]
 
 <img src="https://komarev.com/ghpvc/?username=alextp03&color=blue" alt="GitHub Visitor Count">
 
