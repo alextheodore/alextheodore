@@ -8,13 +8,6 @@
 - 🌱 I’m currently working on Team Promotion at BINUS Alam Sutera and building StudentsCatalyst website
 - ⚡ I'm learning on OpenCV and image recognition on my current classes
 
-## 🔗 Contact Me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertheodore)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.theodore26@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/417616827003174920)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxthp/)
-[![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextp03)
-
 ## 📖 Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -35,7 +28,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) 
 
-
+## 🔗 Contact Me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertheodore)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.theodore26@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/417616827003174920)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxthp/)
+[![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextp03)
 
 <!--
 **alextp03/alextp03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
