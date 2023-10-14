@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex
 
 <img src="https://komarev.com/ghpvc/?username=alextp03&color=blue" alt="GitHub Visitor Count">
 
