@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertheodore)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/417616827003174920)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxthp/)
-[![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextp03)
+[![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextheodore)
 
 <!--
 **alextp03/alextp03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
