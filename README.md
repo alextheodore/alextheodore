@@ -5,7 +5,7 @@
 ## About Me
 - 🚀 I'm an enthusiastic Computer Science Undergraduate Student
 - 💻 I’m currently learning Software Engineer and Artificial Intelligence
-- 🌱 I’m currently working on Team Promotion at BINUS Alam Sutera and building StudentsCatalyst website
+- 🌱 I’m currently working on building StudentsCatalyst website and team promotion at BINUS Alam Sutera 
 - ⚡ I'm learning on OpenCV and image recognition on my current classes
 
 ## 📖 Skills
