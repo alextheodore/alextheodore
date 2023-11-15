@@ -34,7 +34,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxthp/)
 [![GitHub alextheodore](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alextheodore)
 
-![github stat](https://github-readme-stats.vercel.app/api/top-langs/?username=alextheodore&theme=blue-green)
 <!--
 **alextp03/alextp03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
