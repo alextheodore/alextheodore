@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Alex aka Alexander Theodore
 
-<img src="https://komarev.com/ghpvc/?username=alextp03&color=blue" alt="GitHub Visitor Count">
-
 ## About Me
 * 🚀 Solution Analyst & Data Engineer at PT Bank Mandiri (Persero) Tbk. — AI for CX team
 * 💻 Currently working on POPCORN, a generative-AI platform for smarter customer experiences
