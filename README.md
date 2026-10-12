@@ -3,10 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=alextp03&color=blue" alt="GitHub Visitor Count">
 
 ## About Me
-- 🚀 I'm an enthusiastic Computer Science Undergraduate Student
-- 💻 I’m currently learning Software Engineer and Artificial Intelligence
-- 🌱 I’m currently working on building StudentsCatalyst website and team promotion at BINUS Alam Sutera 
-- ⚡ I'm learning on OpenCV and image recognition on my current classes
+* 🚀 Solution Analyst & Data Engineer at PT Bank Mandiri (Persero) Tbk. — AI for CX team
+* 💻 Currently working on POPCORN, a generative-AI platform for smarter customer experiences
+* 🔧 Focused on solution design, system integration, and building reliable data pipelines
+* 🌱 Learning more about full-stack development and scaling AI systems in production
+* 🎓 Computer Science graduate from BINUS University
 
 ## 📖 Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
